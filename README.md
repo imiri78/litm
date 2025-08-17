@@ -1,3 +1,6 @@
+> [!WARNING]
+> This system will eventually be removed from Foundry. Please use: https://github.com/taragnor/city-of-mist
+
 <div align="center"><img src="./assets/media/litm_splash.webp" /></div>
 <h1 align="center">⚜️<a href="https://www.kickstarter.com/projects/sonofoak/legend-in-the-mist-rpg" rel="noreferrer" target="_blank">Legend in the Mist Demo</a>⚜</h1>
 <div align="center"><strong><em>For Foundry Virtual Tabletop</em></strong></div>
@@ -11,14 +14,9 @@
 
 This is a system for playing the game **Legend in the Mist** in Foundry Virtual Tabletop.
 
-The game is currently in development and is being funded through a [Kickstarter campaign](https://www.kickstarter.com/projects/sonofoak/legend-in-the-mist-rpg).
-
 ## Installation
 
-> [!WARNING]
-> This system is still under early development and may have some rough edges. The game itself is also under development and may see major changes. Consider this an early taster of what is coming.
-
-Thank you for wanting to try out this system! The game is still under development and things may change or break. There are also features missing that will be added as development progresses.
+Thank you for wanting to try out this system! It is not under development anymore. https://github.com/taragnor/city-of-mist
 
 **To install the system in Foundry Virtual Tabletop:**
 
